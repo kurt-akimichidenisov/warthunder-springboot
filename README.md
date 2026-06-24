@@ -1,6 +1,7 @@
 # War Thunder Vehicle Management Backend
 
 战争雷霆车辆管理系统后端服务，为 [warthunder-vue](https://github.com/kurt-akimichidenisov/warthunder-vue) 提供API支持。
+![项目演示视频](2026-06-24%2018-15-48.mp4)
 
 ## 技术栈
 
